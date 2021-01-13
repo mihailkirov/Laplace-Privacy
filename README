@@ -1,0 +1,3 @@
+The project consists of implementing and analyzing the Laplace mechanism used for ensuring privacy of data released from a dataset. 
+This is a university assignment (INSA Rennes) aiming to show using diagrams (matplotlib) how the different parameters of the algorithm affect the anonymization of the data.
+You can find the questions of the assignment as well as the rapport in the 2 pdf files.
